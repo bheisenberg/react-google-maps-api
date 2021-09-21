@@ -17,6 +17,7 @@ const eventMap = {
   onMouseOver: 'mouseover',
   onMouseUp: 'mouseup',
   onRightClick: 'rightclick',
+  onSetAt: 'set_at'
 }
 
 const updaterMap = {

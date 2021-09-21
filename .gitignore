@@ -61,3 +61,4 @@ googleMapKey.js
 
 .rts2_cache*
 .dccache
+packages/react-google-maps-api/package-lock.json
